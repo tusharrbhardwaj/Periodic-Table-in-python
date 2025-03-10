@@ -45,17 +45,6 @@ Periodic-Table-in-python/
 │── README.md          # Project documentation
 ```
 
-## Deployment on PythonAnywhere
-If you want to run this project as a web application, you can deploy it on **PythonAnywhere** by following these steps:
-
-1. Upload all project files to your **PythonAnywhere** account.
-2. Set up a new **Python Web Application**.
-3. Install dependencies:
-   ```sh
-   pip install pillow
-   ```
-4. Run the script in a virtual environment or a scheduled task.
-
 ## How to Contribute
 This project is open-source, and contributions are always welcome! If you have suggestions for new features or improvements:
 1. **Fork the repository** on GitHub.
